@@ -36,7 +36,7 @@ h1{
 }
 
 .pages > li {
-    padding: 1rem 0;
+    padding: 1rem;
     display: flex;
     align-items: center;
 }
@@ -46,20 +46,24 @@ h1{
     color: rgb(28, 28, 166);
 }
 
-.pages > li:hover {
-    background-color: #f0f0f0;
+.pages > li:hover{
+    background-color: #f0f5f8;
+    color: rgb(28, 28, 166);
 }
-
-.pages > li >a{
+.pages > li:hover > a{
+    color: rgb(28, 28, 166);
+}
+.pages > li > a{
     padding-left: 1rem;
     text-decoration: none;
     color: #000;
     width: 100%;
+    border-radius: ;
 }
 
 
 .carrito {
-    padding: 1rem 0;
+    padding: 1rem;
     display: flex;
     align-items: center;
     position: relative;
@@ -85,8 +89,19 @@ h1{
     margin: .5rem ;
     padding: .1rem .3rem;
     top: .2rem;
-    right: 9rem;
+    right: 8rem;
     color: white;
     background-color: rgb(28, 28, 166);
 }
 
+.carrito:hover {
+    background-color: #f0f5f8;
+}
+
+.carrito:hover > a{
+    color: rgb(28, 28, 166);
+}
+
+footer {
+    padding-left: 2rem
+}
