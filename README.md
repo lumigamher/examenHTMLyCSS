@@ -1,5 +1,5 @@
 # Proyecto de E-Commerce CampusShop
-
+![Demo](https://github.com/lumigamher/examenHTMLyCSS/blob/main/Grabaci%C3%B3n-de-pantalla-desde-08-02-24-13_32_27.gif)
 ## Introducción
 
 CampusShop es una plataforma de comercio electrónico diseñada para satisfacer específicamente las necesidades de los residentes del campus. Ofrece una amplia gama de productos que incluyen consolas, componentes de PC y máquinas arcade. Este README proporciona una visión general de la estructura del proyecto, la funcionalidad y las instrucciones de uso.
